@@ -1,4 +1,4 @@
-# PyWebServer
+# PyWebServer(обучение)
 ВэбСервер на базе socket
 
 Применение
